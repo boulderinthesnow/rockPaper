@@ -1,0 +1,36 @@
+div.image {
+	content.url(rock.png)
+}
+#rock {
+	background-color: blue;
+	border: 3px black solid;
+	font-size: 3em;
+	width: 260px;
+	height: 60px;
+	/*float: left*/
+}
+#paper {
+	background-color: indianRed;
+	border: 3px black solid;
+	font-size: 3em;
+		width: 260px;
+	height: 60px;'
+	float: left;
+}
+#scissors {
+	background-color: cyan;
+	border: 3px black solid;
+	font-size: 3em;
+		width: 260px;
+	height: 60px;'
+	/*float: left*/
+}
+
+#score {
+		background-color: blue;
+	border: 3px black solid;
+	font-size: 2em;
+	color: red;
+	width: 260px;
+	height: 100px;
+}
